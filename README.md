@@ -1083,6 +1083,8 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [fake2db](https://github.com/emirozer/fake2db) - Fake database generator.
     * [faker](https://github.com/joke2k/faker) - A Python package that generates fake data.
     * [radar](https://pypi.org/project/radar/) - Generate random datetime / time.
+* Assertions
+    * [PyHamcrest](https://pypi.org/project/pyhamcrest/) - Expressive, customisable and composable test assertions.
 
 ## Text Processing
 
